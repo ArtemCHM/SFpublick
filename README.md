@@ -1,2 +1,0 @@
-# SFpublick
-First publick repository
